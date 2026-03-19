@@ -1,5 +1,10 @@
-For my second recenttask, I have developed a calculator aimed to aid in carrying out basic and most frequent arithmetic operations .
+Having Challenges in your Arithmetic Operations???Let's fix that.
 
-I have designed it using HTML,CSS and some minor javascript to enable the calculation process come to life when used, enable editing when mistakes which are prone to happen occur ,a function to clear all and finally,delete some specifics when required.
+PROJECT NAME: A CALCULATOR DEMO.
+PROJECT SCOPE: This demo was mainly aimed at simulating a real-life calculator used in performing mathematical operations such as addition,subtraction,division and multiplication. Through it, a user can perform the mathematical operations he/she desires with ease.
 
-This represents my second attempt in demonstration of what HTML,Css and Javascript at a mere beginner level can carry out.
+The demo has been brought to life using the following programming languages:HTML,CSS and JavaScript to a minute level.
+
+You can take a look at it here..
+
+I Do hope it helps in your mathematical journey.
