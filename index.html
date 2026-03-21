@@ -1,67 +1,47 @@
 <!DOCTYPE html>
-<html>
-   <head>
-     <meta charset="UTF-8">
-     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
-     <title>ARITHMETICS AID</title>
-     <link rel="icon" href="assets/favicon.ico">
-     <link rel="stylesheet" href="assets/style.css">
-   </head>
-    <body> 
-    <div class="group">
-        <div class="calculator">
-            <form>
-                <div class="display">
-                    <input type="text" name="display">
-                </div>
-                <div>
-                    <input type="button" value="AC">
-                    <input type="button" value="DE">
-                    <input type="button" value=".">
-                    <input type="button" value="/">
-                </div>
-                <div>
-                    <input type="button" value="7">
-                    <input type="button" value="8">
-                    <input type="button" value="9">
-                    <input type="button" value="*">
-                </div>
-                <div>
-                    <input type="button" value="4">
-                    <input type="button" value="5">
-                    <input type="button" value="6">
-                    <input type="button" value="-">
-                </div>
-                <div>
-                    <input type="button" value="1">
-                    <input type="button" value="2">
-                    <input type="button" value="3">
-                    <input type="button" value="+">
-                </div>
-                <div>
-                    <input type="button" value="00">
-                    <input type="button" value="0">
-                    <input type="button" value="=" class="equal">
-                </div>
-            </form>
-        </div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width, initial-scale=1.0">
+    <link  rel="stylesheet" href="assets/style.css">
+    <link  rel="icon" href="assets/favicon.ico">
+    <title>ARITHMETICS AID</title>
+</head>
+<body>
+    <div class="calculate">
+        <input type="text" placeholder="0" id="inputbox">
+           <div>
+            <button>AC</button>
+            <button>DEL</button>
+            <button class="operators">%</button>
+            <button class="operators">/</button>
+           </div>
+           <div>
+            <button>7</button>
+            <button>8</button>
+            <button>9</button>
+            <button class="operators">*</button>
+           </div>
+           <div>
+            <button>4</button>
+            <button>5</button>
+            <button>6</button>
+            <button class="operators">-</button>
+           </div>
+           <div>
+            <button>1</button>
+            <button>2</button>
+            <button>3</button>
+            <button class="operators ">+</button>
+           </div>
+           <div>
+            <button>00</button>
+            <button>0</button>
+            <button>.</button>
+            <button class="equals">=</button>
+           </div>
     </div>
-   </body>
-   <!-- <script src="three.r134.min.js"></script>
-<script src="vanta.net.min.js"></script>
-<script>
-VANTA.NET({
-  el: "#vanta-bg",
-  mouseControls: true,
-  touchControls: true,
-  gyroControls: false,
-  minHeight: 200.00,
-  minWidth: 200.00,
-  scale: 1.00,
-  scaleMobile: 1.00,
-  color: 0xfffcff,
-  spacing: 19.00
-})
-</script> -->
-   <script src="assets/script.js"></script>
+
+    <script src="assets/script.js"></script>
+</body>
 </html>
