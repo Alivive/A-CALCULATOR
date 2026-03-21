@@ -42,7 +42,7 @@ Improve mobile responsiveness
 
 Access the project here:
 👉 
-https://alivive.github.io/A CALCULATOR/
+https://alivive.github.io/A-CALCULATOR/
 
 
 
