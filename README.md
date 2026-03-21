@@ -1,11 +1,48 @@
-Having Challenges in your Arithmetic Operations???Let's fix that.
+Project 3: A Calculator (Front-End)
 
-PROJECT NAME: A CALCULATOR DEMO.
+A simple and interactive to-do list application designed to help users improve their arithmetic manipulation skills.
 
-PROJECT SCOPE: This demo was mainly aimed at simulating a real-life calculator used in performing mathematical operations such as addition,subtraction,division and multiplication. Through it, a user can perform the mathematical operations he/she desires with ease.
+Overview
 
-The demo has been brought to life using the following programming languages:HTML,CSS and JavaScript to a minute level.
+It allows users to perform basic arithmetic operations involving Addition,Substraction,Division and Multiplication.
 
-You can take a look at it here..
+Features
 
-I Do hope it helps in your mathematical journey.
+➕ Basic Arithmetic Operations of Addition,Subtraction,Division and Multiplication.
+✏️ Editing of Values entered.
+❌ Deleting and clearing tasks
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the application
+CSS3 – Styling and layout
+JavaScript – Functionality and interactivity
+
+🚀 How It Works
+
+Users input integral values
+Arithmetic Operations are carried out.
+The result of the operation are displayed on the screen.
+A user can edit the input made and has the ability to clear or delete the product of an arithmetic operation.
+
+
+📂 Project Purpose
+
+This project was built to:
+
+Practice front-end development skills.
+Improve understanding of my JavaScript Programming Language understanding.
+Demonstrate how simple tools can enhance productivity.
+Build interactive and user-friendly web applications.
+
+🔮 Future Improvements
+
+Add local storage to save results of operations permanently
+Improve mobile responsiveness
+
+Access the project here:
+👉 
+https://alivive.github.io/A CALCULATOR/
+
+
+
